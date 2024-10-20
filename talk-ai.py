@@ -3,7 +3,7 @@ import speech_recognition as sr
 import pyttsx3
 
 # Initialize OpenAI client
-client = openai.OpenAI(api_key='sk-cHmTiunjcASker0H5Rch-LHYthetWv06_wt_Lg2HoKT3BlbkFJ7rI_1M5reSQfxxV0A5c28JUOGo4iMXE7tFUx8kuB4A')
+client = openai.OpenAI(api_key='')
 
 # Initialize speech recognition
 recognizer = sr.Recognizer()
